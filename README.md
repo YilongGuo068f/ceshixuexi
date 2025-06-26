@@ -1,5 +1,5 @@
-# 个人信息
+# personal information
 
-- **姓名 (Name)**: Yilong Guo  
-- **学校 (University)**: Soochow University  
-- **邮箱 (Email)**: ylguo628@stu.suda.edu.cn
+- **Name**: Yilong Guo  
+- **University**: Soochow University  
+- **Email**: ylguo628@stu.suda.edu.cn
